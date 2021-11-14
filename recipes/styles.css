@@ -1,0 +1,23 @@
+h1,
+body,
+div {
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    background-color: gray;
+    color: white;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: auto;
+}
+
+ul,
+ol {
+    text-align: center;
+    list-style: white;
+    list-style-type: color, white;
+}
